@@ -17,3 +17,5 @@ The workshop uses data from the **Chile Longitudinal Social Survey (ELSOC)**. Yo
 
 - `ELSOC_2016_2022__Long.dta`  
 - `ELSOC_2016_2022__Wide.dta`
+
+This repository also contains ELSOC documentation and questionnaires.
