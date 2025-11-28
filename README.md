@@ -13,8 +13,7 @@ This repository contains the slides and supporting materials for the workshop:
   2. `Codigo_02__Ejercicios_Practicos.R` — contains the prompts and exercises used during the hands-on portion of the workshop.  
   3. `Codigo_03__Respuestas_a_Ejercicios.R` — provides the solutions to the exercises.
 
-The workshop uses data from the **Chile Longitudinal Social Survey (ELSOC)**. You can access the dataset in the following [repository](https://dataverse.harvard.edu/dataverse/elsoc).  
-Specifically, the session uses the following files:
+The workshop uses data from the **Chile Longitudinal Social Survey (ELSOC)**. You can access the dataset in the following [repository](https://dataverse.harvard.edu/dataverse/elsoc). Specifically, the session uses the following files:
 
 - `ELSOC_2016_2022__Long.dta`  
 - `ELSOC_2016_2022__Wide.dta`
